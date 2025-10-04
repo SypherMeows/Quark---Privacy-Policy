@@ -105,7 +105,9 @@ If we make material changes, we’ll update the date at the top and, when approp
 11) Contact
 
 Developer/Company: Kenan Baltaci
+
 Email: kenanbaltaci@gmail.com
+
 Website/Support: https://sites.google.com/view/quarkhelp/home
 
 Legal note
